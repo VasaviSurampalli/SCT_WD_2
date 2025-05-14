@@ -4,7 +4,7 @@
 A simple and fully functional calculator built using HTML, CSS, and JavaScript. 
 This project is designed to manage DOM manipulation, event handling, and implementing basic arithmetic operations.
 
-## Features
+## Features 
 
 - Basic arithmetic operations: `+`, `−`, `×`, `÷`
 - Input parsing and error handling for invalid expressions
@@ -13,7 +13,7 @@ This project is designed to manage DOM manipulation, event handling, and impleme
 - Error message display for invalid input (e.g., `5+*2`)
 - Simple and responsive UI
 
-Technologies Used
-   HTML5
-   CSS
-   JAvaScript
+Technologies Used  
+-HTML5
+-CSS
+-JAvaScript
